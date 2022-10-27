@@ -1,0 +1,23 @@
+.rubrik{
+	color:#66ffcc;
+	text-align: center;
+}
+
+.bg{
+	background-color: lightpink;
+	border: 2px solid black;
+}
+.globalbild{
+	 max-width: 100%;
+  height: auto;
+}
+
+.centerbutton{
+	
+ display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+ 
+ 
+}
