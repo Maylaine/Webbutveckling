@@ -1,0 +1,25 @@
+body{
+	background-color: pink;
+}
+table, th, td{
+	border-collapse: collapse;
+	border: 5px solid darkgreen;
+	padding: 15px;
+
+}
+
+th{
+	background-color: lightgrey;
+}
+td{
+	background-color: white;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+a{
+	color: green;
+}
