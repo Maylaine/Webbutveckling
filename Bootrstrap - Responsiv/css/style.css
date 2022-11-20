@@ -1,0 +1,45 @@
+body{
+	background-color: #b9e4fa;
+}
+a{
+	color: white;
+}
+.sectionmargin{
+	margin-top: 50px;
+}
+.cardmargin{
+	margin-top: 20px
+
+}
+.bild{
+	background-color: white;
+	padding-top: 30px
+}
+
+.skugga{
+	box-shadow: 10px 10px 15px grey;
+}
+.sidfot{
+	padding: 50px;
+	margin-top: 1000px;
+	background-color: #73a1eb;
+	color: white;
+}
+
+.kolumnpadding{
+	padding-bottom: 15px;
+}
+
+.videomargin{
+	margin-bottom: 75px;
+}
+
+.hide {
+  display: none;
+}
+
+.svar:hover + .hide {
+  display: block;
+  color: white;
+  font-style: italic;
+}
