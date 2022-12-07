@@ -1,0 +1,16 @@
+h1{
+	color: blue;
+}
+
+body{
+	background-color: white;
+}
+.bgcolor{
+	background-color: lightgrey;
+}
+
+.row{
+	padding-top: 30px;
+	padding-bottom: 15px;
+	border-radius: 15px;
+}
